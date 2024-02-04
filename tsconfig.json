@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "module": "Node16",
+    "declaration": true,
+    "noEmit": false,
+    "skipLibCheck": true,
+    "baseUrl": ".",
+  },
+  "include": ["index.ts"]
+}
